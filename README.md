@@ -5,7 +5,6 @@ Welcome to my page!
 I'm Jamy Don, a common coder living in Peking.
 
 <img alt="Followers" src="https://img.shields.io/github/followers/JamyDon?style=social?style=plastic&logo=appveyor">
-
 <img alt="Stars" src="https://img.shields.io/github/stars/JamyDon?affiliations=COLLABORATOR&style=social?style=plastic&logo=appveyor">
 
 ### Languages
