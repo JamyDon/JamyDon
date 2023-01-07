@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamyDon)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamyDon?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamyDon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamyDon&layout=compact?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JamyDon/JamyDon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
