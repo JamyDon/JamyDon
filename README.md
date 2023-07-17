@@ -2,7 +2,7 @@
 
 Welcome to my page!
 
-I'm Jamy Don, a common coder living in Peking.
+I'm Chenming Tang, and you can call me Jamy. I'm studying in Beijing.
 
 <img alt="Followers" src="https://img.shields.io/github/followers/JamyDon?style=social?style=plastic&logo=appveyor"><img alt="Stars" src="https://img.shields.io/github/stars/JamyDon?affiliations=COLLABORATOR&style=social?style=plastic&logo=appveyor">
 
