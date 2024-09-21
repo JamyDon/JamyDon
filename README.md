@@ -2,7 +2,9 @@
 
 Welcome to my page!
 
-I'm Chenming Tang, and you can call me Jamy. I'm studying in Beijing.
+I'm Chenming Tang, and you can call me Jamy. I'm a master’s student in computer science at Peking University.
+
+[Personal Website](https://jamydon.github.io/)
 
 <img alt="Followers" src="https://img.shields.io/github/followers/JamyDon?style=social?style=plastic&logo=appveyor"><img alt="Stars" src="https://img.shields.io/github/stars/JamyDon?affiliations=COLLABORATOR&style=social?style=plastic&logo=appveyor">
 
