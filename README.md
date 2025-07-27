@@ -2,7 +2,7 @@
 
 Welcome to my page!
 
-I'm Chenming Tang, and you can call me Jamy. I'm a master’s student in computer science at Peking University.
+I'm Chenming Tang, and you can call me Jamy. I'm a master’s student in computer science at Peking University and a research intern at Tencent.
 
 [Personal Website](https://jamydon.github.io/)
 
